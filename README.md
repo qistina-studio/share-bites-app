@@ -1,6 +1,6 @@
 # share_bites
 
-A new Flutter project.
+Share Bites is a food-sharing application developed to address the food waste and food insecurity issues within the UNITEN Putrajaya community. With the existence of the app, members of the community can share and claim excess food conveniently, supporting the 2nd Sustainable Development Goal of zero hunger.
 
 ## Getting Started
 
